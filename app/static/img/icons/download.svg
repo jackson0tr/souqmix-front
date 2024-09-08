@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Icon_" width="21" height="21" data-name="Icon" viewBox="0 0 21 21">
+    <defs>
+        <style>
+            .cls-2{fill:transparent;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.667px}
+        </style>
+    </defs>
+    <g id="Icon" transform="translate(2.912 2.925)">
+        <path id="Path" d="M18.268 12.5V16a1.752 1.752 0 0 1-1.752 1.752H4.252A1.752 1.752 0 0 1 2.5 16v-3.5" class="cls-2" transform="translate(-2.5 -1.988)"/>
+        <path id="Path-2" d="M5.833 8.333l4.38 4.38 4.38-4.38" class="cls-2" data-name="Path" transform="translate(-2.329 -2.201)"/>
+        <path id="Line" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.667px" d="M0 10.512L0 0" transform="translate(7.884)"/>
+    </g>
+</svg>

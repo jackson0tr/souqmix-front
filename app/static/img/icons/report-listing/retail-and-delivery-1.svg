@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="12" height="24" viewBox="0 0 12 24">
+    <defs>
+        <linearGradient id="he9ix1hb7a" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+    </defs>
+    <g data-name="Group 3501">
+        <path data-name="Path 2854" d="M6.5 0h-3L0 4.333V20h10V4.333z" style="fill:url(#he9ix1hb7a)" transform="translate(1 3)"/>
+    </g>
+    <g data-name="Group 3504">
+        <path data-name="Path 2856" d="M6 4a2 2 0 1 0 2 2 2 2 0 0 0-2-2zm5.786.41.014-.01-3-4-.014.01A.98.98 0 0 0 8 0H4a.98.98 0 0 0-.786.41L3.2.4l-3 4 .014.011A.973.973 0 0 0 0 5v15a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V5a.973.973 0 0 0-.214-.59zM10 19H2V5.333L4.5 2h3L10 5.333z" style="fill:url(#he9ix1hb7a)" transform="translate(0 3)"/>
+    </g>
+    <g data-name="Group 3505">
+        <path data-name="Path 2857" d="M5 0a5 5 0 0 0-5 5 4.947 4.947 0 0 0 .144 1.142L2.2 3.4a.923.923 0 0 1 .52-.328A2.994 2.994 0 1 1 5 8a1 1 0 0 0 0 2A5 5 0 0 0 5 0z" style="fill:#4d5a64" transform="translate(1)"/>
+    </g>
+    <path data-name="Line 59" transform="translate(5.661 12.006)" style="fill:none;stroke:#4d5a64;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px" d="M0 0v3.699"/>
+    <path data-name="Line 60" transform="translate(5.661 19.404)" style="fill:none;stroke:#4d5a64;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px" d="M0 0h.009"/>
+</svg>

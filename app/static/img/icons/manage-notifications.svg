@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2246" data-name="Rectangle 2246" transform="translate(1236 40)" style="stroke:#707070;fill:none" d="M0 0h24v24H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{fill:none;stroke:#2d3142;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Mask_Group_16" data-name="Mask Group 16" transform="translate(-1236 -40)" style="clip-path:url(#clip-path)">
+        <g id="streamline-icon-interface-alert-alarm-bell-2_140x140" data-name="streamline-icon-interface-alert-alarm-bell-2@140x140" transform="translate(1240 44)">
+            <path id="Path_2666" data-name="Path 2666" class="cls-3" d="M13.154 5a5.377 5.377 0 0 1 5.377 5.377c0 5.983 2.185 7.168 2.777 7.168H5c.6 0 2.777-1.192 2.777-7.168A5.377 5.377 0 0 1 13.154 5z" transform="translate(-5 -5)"/>
+            <path id="Path_2667" data-name="Path 2667" class="cls-3" d="M55 123.34a1.942 1.942 0 0 0 3.763 0" transform="translate(-48.728 -107.494)"/>
+        </g>
+    </g>
+</svg>

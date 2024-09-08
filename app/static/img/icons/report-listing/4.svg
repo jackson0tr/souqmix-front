@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_7230" width="36.617" height="36.617" data-name="Group 7230" viewBox="0 0 36.617 36.617">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+        <clipPath id="clip-path">
+            <rect id="Mask" width="36.617" height="36.617" class="cls-1" rx="18.309"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#f2f2f8}.cls-3{fill:url(#linear-gradient)}.cls-5{fill:none;stroke:#4d5a64;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Group_3492" data-name="Group 3492">
+        <g id="ColorBg">
+            <rect id="Mask-2" width="36.617" height="36.617" class="cls-1" data-name="Mask" rx="18.309"/>
+        </g>
+    </g>
+    <g id="Retail_and_delivery_1_" transform="translate(11.891 6)">
+        <g id="Price_tag_1_">
+            <g id="Rounded_Rectangle_430_copy_1_" transform="translate(1 3)">
+                <g id="Group_3501" data-name="Group 3501">
+                    <path id="Path_2854" d="M6.5 0h-3L0 4.333V20h10V4.333z" class="cls-3" data-name="Path 2854"/>
+                </g>
+            </g>
+            <g id="Rounded_Rectangle_430_1_" transform="translate(0 3)">
+                <g id="Group_3504" data-name="Group 3504">
+                    <path id="Path_2856" d="M6 4a2 2 0 1 0 2 2 2 2 0 0 0-2-2zm5.786.41l.014-.01-3-4-.014.01A.98.98 0 0 0 8 0H4a.98.98 0 0 0-.786.41L3.2.4l-3 4 .014.011A.973.973 0 0 0 0 5v15a1 1 0 0 0 1 1h10a1 1 0 0 0 1-1V5a.973.973 0 0 0-.214-.59zM10 19H2V5.333L4.5 2h3L10 5.333z" class="cls-3" data-name="Path 2856"/>
+                </g>
+            </g>
+            <g id="Rounded_Rectangle_432_1_" transform="translate(1)">
+                <g id="Group_3505" data-name="Group 3505">
+                    <path id="Path_2857" fill="#4d5a64" d="M5 0a5 5 0 0 0-5 5 4.947 4.947 0 0 0 .144 1.142L2.2 3.4a.923.923 0 0 1 .52-.328A2.994 2.994 0 1 1 5 8a1 1 0 0 0 0 2A5 5 0 0 0 5 0z" data-name="Path 2857"/>
+                </g>
+            </g>
+        </g>
+        <path id="Line_59" d="M0 0L0 3.699" class="cls-5" data-name="Line 59" transform="translate(5.661 12.006)"/>
+        <path id="Line_60" d="M0 0L0.009 0" class="cls-5" data-name="Line 60" transform="translate(5.661 19.404)"/>
+    </g>
+</svg>

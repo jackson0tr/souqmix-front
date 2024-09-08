@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.964" height="112.964" viewBox="0 0 112.964 112.964">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+        <style>
+            .cls-3{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px;stroke:#4d5a64}
+        </style>
+    </defs>
+    <g id="Group_7276" data-name="Group 7276" transform="translate(-860 -509)">
+        <path id="Oval" fill="#f7f7fb" d="M56.482 0A56.482 56.482 0 1 1 0 56.482 56.482 56.482 0 0 1 56.482 0z" transform="translate(860 509)"/>
+        <g id="Group_3002" data-name="Group 3002" transform="translate(876 524)">
+            <g id="streamline-icon-party-music_140x140" data-name="streamline-icon-party-music@140x140" transform="rotate(-45 49.573 20.534)">
+                <path id="Path_2599" fill="url(#linear-gradient)" d="M33.007 28.845a4.192 4.192 0 0 1 3.466-4.614 8.418 8.418 0 0 0 4.634-2.32C45.2 17.819 44.181 10.156 38.818 4.8S25.8-1.586 21.7 2.509a8.418 8.418 0 0 0-2.32 4.634 4.192 4.192 0 0 1-4.614 3.466A13.242 13.242 0 0 0 3.646 14.1c-5.73 5.73-4.584 16.166 2.569 23.3s17.583 8.29 23.312 2.56a13.242 13.242 0 0 0 3.48-11.115z" data-name="Path 2599" transform="translate(0 14.464)"/>
+                <path id="Path_2601" d="M13.68 0L0 13.68" class="cls-3" data-name="Path 2601" transform="translate(38.818 5.581)"/>
+                <path id="Path_2602" d="M0 0l2.965 2.965" class="cls-3" data-name="Path 2602" transform="translate(46.22)"/>
+                <path id="Path_2603" d="M0 0l2.965 2.965" class="cls-3" data-name="Path 2603" transform="translate(55.114 8.893)"/>
+                <path id="Path_2604" d="M0 0l2.965 2.965" class="cls-3" data-name="Path 2604" transform="translate(50.667 13.34)"/>
+                <path id="Path_2605" d="M0 0l2.965 2.965" class="cls-3" data-name="Path 2605" transform="translate(41.774 4.447)"/>
+                <path id="Path_2607" fill="none" stroke="#2d3142" stroke-linecap="round" stroke-linejoin="round" stroke-width="2px" d="M0 0l5.928 5.928" data-name="Path 2607" transform="translate(12.137 40.014)"/>
+            </g>
+        </g>
+    </g>
+</svg>

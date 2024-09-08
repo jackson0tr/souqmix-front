@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="18.4" height="18.401" viewBox="0 0 18.4 18.401">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+        <style>
+            .cls-2{fill:none;stroke:#fff;stroke-linecap:round;stroke-width:2.5px}
+        </style>
+    </defs>
+    <g id="Group_7062" data-name="Group 7062" transform="translate(-173 -361)">
+        <path id="Path_2908" fill="url(#linear-gradient)" d="M811.524 511.319h-10.852a3.236 3.236 0 0 0-3.232 3.232v9.418l-.975 2.925a2.143 2.143 0 0 0 .433 2.1l-.032.1.1-.025a2.14 2.14 0 0 0 2.059.593l4.085-1.022h8.418a3.235 3.235 0 0 0 3.231-3.232v-10.857a3.236 3.236 0 0 0-3.235-3.232z" data-name="Path 2908" transform="translate(-623.355 -150.319)"/>
+        <path id="Line_49" d="M0 0L6.441 0" class="cls-2" data-name="Line 49" transform="translate(179.978 366.904)"/>
+        <path id="Line_50" d="M0 0L2.147 0" class="cls-2" data-name="Line 50" transform="translate(179.978 372.272)"/>
+    </g>
+</svg>

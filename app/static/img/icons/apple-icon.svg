@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-2{fill:#8789a2}
+        </style>
+    </defs>
+    <g id="Group_3351" data-name="Group 3351" transform="translate(-54 -721)">
+        <g id="Button_1" data-name="Button 1" transform="translate(54 721)">
+            <circle id="Ellipse_326" cx="24" cy="24" r="24" fill="#f7f7fb" data-name="Ellipse 326"/>
+        </g>
+        <g id="streamline-icon-os-system-apple_140x140" data-name="streamline-icon-os-system-apple@140x140" transform="translate(44.669 722.937)">
+            <path id="Path_2770" d="M40.232 55.606a5.629 5.629 0 0 1 2.682-4.731 5.819 5.819 0 0 0-4.541-2.467c-1.935-.19-3.795 1.138-4.756 1.138s-2.53-1.113-4.1-1.088a6.085 6.085 0 0 0-5.148 3.112c-2.188 3.795-.557 9.437 1.581 12.523 1.037 1.505 2.29 3.2 3.921 3.137s2.176-1.012 4.073-1.012 2.441 1.012 4.1.987 2.77-1.543 3.795-3.049a13.687 13.687 0 0 0 1.733-3.491 5.49 5.49 0 0 1-3.34-5.059z" class="cls-2" data-name="Path 2770" transform="translate(0 -34.378)"/>
+            <path id="Path_2771" d="M74.109 9.033a6.325 6.325 0 0 0 1.48-4.541 6.325 6.325 0 0 0-4.189 2.15 5.971 5.971 0 0 0-1.48 4.465 5.288 5.288 0 0 0 4.187-2.075z" class="cls-2" data-name="Path 2771" transform="translate(-36.471)"/>
+        </g>
+    </g>
+</svg>

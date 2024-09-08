@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.964" height="112.964" viewBox="0 0 112.964 112.964">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+        <style>
+            .cls-3{fill:url(#linear-gradient)}
+        </style>
+    </defs>
+    <g id="Group_7271" data-name="Group 7271" transform="translate(-1225 -321)">
+        <path id="Oval" fill="#f7f7fb" d="M56.482 0A56.482 56.482 0 1 1 0 56.482 56.482 56.482 0 0 1 56.482 0z" transform="translate(1225 321)"/>
+        <g id="Sports_1_" transform="translate(1251 364)">
+            <g id="Weights_1_">
+                <g id="Rectangle_416_3_" transform="translate(12.197 9.975)">
+                    <g id="Group_3413" data-name="Group 3413">
+                        <path id="Rectangle_2177" fill="#4d5a64" d="M0 0H35V5H0z" data-name="Rectangle 2177" transform="translate(-.036 -.193)"/>
+                    </g>
+                </g>
+                <g id="Rectangle_416_copy_3_" transform="translate(2.522 2.522)">
+                    <g id="Group_3414" data-name="Group 3414">
+                        <path id="Path_2776" d="M1.3 33.327h10.091V13.15H1.3zM46.7 13.15v20.177h10.09V13.15z" class="cls-3" data-name="Path 2776" transform="translate(-1.302 -13.15)"/>
+                    </g>
+                </g>
+                <g id="Rectangle_415_3_">
+                    <g id="Group_3415" data-name="Group 3415">
+                        <path id="Path_2777" d="M58.312 12.15H48.223a2.52 2.52 0 0 0-2.523 2.522v20.177a2.521 2.521 0 0 0 2.522 2.522h10.09a2.523 2.523 0 0 0 2.522-2.522V14.672a2.523 2.523 0 0 0-2.522-2.522zM55.79 32.327h-5.045V17.194h5.045zM12.913 12.15H2.824A2.52 2.52 0 0 0 .3 14.672v20.177a2.521 2.521 0 0 0 2.522 2.522h10.091a2.521 2.521 0 0 0 2.522-2.522V14.672a2.523 2.523 0 0 0-2.522-2.522zm-2.522 20.177H5.346V17.194h5.044z" class="cls-3" data-name="Path 2777" transform="translate(-.302 -12.15)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

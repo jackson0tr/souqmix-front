@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2295" data-name="Rectangle 2295" transform="translate(376 2047)" style="stroke:#2d3142;fill:#2d3142" d="M0 0h24v24H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{stroke:#2d3142;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.714px}
+        </style>
+    </defs>
+    <g id="Mask_Group_92" data-name="Mask Group 92" transform="translate(-376 -2047)" style="clip-path:url(#clip-path)">
+        <g id="streamline-icon-interface-user-block_24x24" data-name="streamline-icon-interface-user-block@24x24" transform="translate(378.974 2049.062)">
+            <g id="Group_7443" data-name="Group 7443" transform="translate(.857 .857)">
+                <circle id="Ellipse_384" data-name="Ellipse 384" class="cls-3" cx="3.145" cy="3.145" r="3.145" transform="translate(3.145)"/>
+                <path id="Path_44494" data-name="Path 44494" class="cls-3" d="M8.544 11.295A6.275 6.275 0 0 0 .857 17.43v2.1h5.59" transform="translate(-.857 -2.756)"/>
+                <g id="Group_7444" data-name="Group 7444" transform="translate(7.687 8.378)">
+                    <path id="Line_55" data-name="Line 55" class="cls-3" transform="translate(4.235)" d="M0 0v2.096"/>
+                    <path id="Line_56" data-name="Line 56" class="cls-3" transform="translate(0 2.446)" d="m0 0 1.817 1.048"/>
+                    <path id="Line_57" data-name="Line 57" class="cls-3" transform="translate(0 6.289)" d="M0 1.048 1.817 0"/>
+                    <path id="Line_58" data-name="Line 58" class="cls-3" transform="translate(4.235 7.687)" d="M0 2.096V0"/>
+                    <path id="Line_59" data-name="Line 59" class="cls-3" transform="translate(6.652 6.289)" d="M1.817 1.048 0 0"/>
+                    <path id="Line_60" data-name="Line 60" class="cls-3" transform="translate(6.652 2.446)" d="M1.817 0 0 1.048"/>
+                    <circle id="Ellipse_383" data-name="Ellipse 383" class="cls-3" cx="2.795" cy="2.795" r="2.795" transform="translate(1.439 2.096)"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

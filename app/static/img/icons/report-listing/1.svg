@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_7227" width="36.617" height="36.617" data-name="Group 7227" viewBox="0 0 36.617 36.617">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+        <clipPath id="clip-path">
+            <rect id="Mask" width="36.617" height="36.617" class="cls-1" rx="18.309"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#f2f2f8}.cls-4{fill:none;stroke:#4d5a64;stroke-linecap:round;stroke-linejoin:round;stroke-width:2px}
+        </style>
+    </defs>
+    <g id="Group_3492" data-name="Group 3492">
+        <g id="ColorBg">
+            <rect id="Mask-2" width="36.617" height="36.617" class="cls-1" data-name="Mask" rx="18.309"/>
+        </g>
+    </g>
+    <g id="Group_3972" data-name="Group 3972" transform="translate(11.408 8)">
+        <path id="Path_2974" fill="url(#linear-gradient)" d="M42.337 39.375a7.337 7.337 0 0 1 7.337 7.337c0 3.267-4.769 10.156-6.617 12.491a.917.917 0 0 1-1.439 0C39.769 56.867 35 49.98 35 46.712a7.337 7.337 0 0 1 7.337-7.337z" data-name="Path 2974" transform="translate(-35 -39.375)"/>
+        <path id="Line_55" d="M0 0L0 3.699" class="cls-4" data-name="Line 55" transform="translate(7.144 5.933)"/>
+        <path id="Line_56" d="M0 0L0.009 0" class="cls-4" data-name="Line 56" transform="translate(7.144 13.331)"/>
+    </g>
+</svg>

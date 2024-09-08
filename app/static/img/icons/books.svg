@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112.964" height="112.964" viewBox="0 0 112.964 112.964">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+    </defs>
+    <g id="Group_7277" data-name="Group 7277" transform="translate(-1044 -509)">
+        <circle id="Oval" cx="56.482" cy="56.482" r="56.482" fill="#f7f7fb" transform="translate(1044 509)"/>
+        <g id="streamline-icon-book-close-2_140x140_1_" data-name="streamline-icon-book-close-2@140x140 (1)" transform="translate(1080 540)">
+            <path id="Path_2882" fill="url(#linear-gradient)" d="M50.5 8.435a1.044 1.044 0 0 1-.835-1.021V4.176A4.176 4.176 0 0 0 45.485 0h-26.1a6.263 6.263 0 0 0-6.263 6.263v37.58a6.263 6.263 0 0 0 6.263 6.263h30.276a4.176 4.176 0 0 0 4.176-4.176v-33.4a4.176 4.176 0 0 0-3.341-4.092zM19.388 4.176z" data-name="Path 2882" transform="translate(-13.125)"/>
+            <path id="Line_44" fill="none" stroke="#4d5a64" stroke-linecap="round" stroke-width="2px" d="M0 0L25.92 0" data-name="Line 44" transform="translate(5.336 6.653)"/>
+        </g>
+    </g>
+</svg>

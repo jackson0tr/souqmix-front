@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2294" data-name="Rectangle 2294" transform="translate(345 2021)" style="stroke:#2d3142;fill:#2d3142" d="M0 0h24v24H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{stroke:#2d3142;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.714px}
+        </style>
+    </defs>
+    <g id="Mask_Group_91" data-name="Mask Group 91" transform="translate(-345 -2021)" style="clip-path:url(#clip-path)">
+        <g id="streamline-icon-interface-login-dial-pad-finger-password_24x24" data-name="streamline-icon-interface-login-dial-pad-finger-password@24x24" transform="translate(346.725 2022.725)">
+            <g id="Group_7440" data-name="Group 7440" transform="translate(.857 .857)">
+                <path id="Path_44490" data-name="Path 44490" class="cls-3" d="M12 21.561v-7.722A1.839 1.839 0 0 1 13.839 12h0a1.839 1.839 0 0 1 1.839 1.839v4.045h2.942a2.942 2.942 0 0 1 2.942 2.942v.735" transform="translate(-2.44 -2.44)"/>
+                <circle id="Ellipse_376" data-name="Ellipse 376" class="cls-3" cx=".735" cy=".735" r=".735"/>
+                <circle id="Ellipse_377" data-name="Ellipse 377" class="cls-3" cx=".735" cy=".735" r=".735" transform="translate(5.883)"/>
+                <circle id="Ellipse_378" data-name="Ellipse 378" class="cls-3" cx=".735" cy=".735" r=".735" transform="translate(11.767)"/>
+                <circle id="Ellipse_379" data-name="Ellipse 379" class="cls-3" cx=".735" cy=".735" r=".735" transform="translate(0 5.148)"/>
+                <circle id="Ellipse_380" data-name="Ellipse 380" class="cls-3" cx=".735" cy=".735" r=".735" transform="translate(5.883 5.148)"/>
+                <circle id="Ellipse_381" data-name="Ellipse 381" class="cls-3" cx=".735" cy=".735" r=".735" transform="translate(11.767 5.148)"/>
+                <circle id="Ellipse_382" data-name="Ellipse 382" class="cls-3" cx=".735" cy=".735" r=".735" transform="translate(0 10.296)"/>
+                <path id="Path_44491" data-name="Path 44491" class="cls-3" d="M8.45 14.328a.735.735 0 1 1 0-1.471z" transform="translate(-1.831 -2.561)"/>
+            </g>
+        </g>
+    </g>
+</svg>

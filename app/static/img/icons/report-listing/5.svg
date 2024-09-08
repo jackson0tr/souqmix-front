@@ -1,0 +1,22 @@
+<svg id="Group_7231" data-name="Group 7231" xmlns="http://www.w3.org/2000/svg" width="36.617" height="36.617" viewBox="0 0 36.617 36.617">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Mask" width="36.617" height="36.617" rx="18.309" style="fill:#f2f2f8"/>
+        </clipPath>
+        <style>
+            
+        </style>
+    </defs>
+    <g id="Group_3492" data-name="Group 3492">
+        <g id="ColorBg">
+            <rect id="Mask-2" data-name="Mask" width="36.617" height="36.617" rx="18.309" style="fill:#f2f2f8"/>
+        </g>
+    </g>
+    <g id="Group_3521" data-name="Group 3521" transform="translate(8.891 10)">
+        <path id="Line_40" data-name="Line 40" transform="translate(1.5)" style="fill:none;stroke:#4d5a64;stroke-linecap:round;stroke-width:2px" d="M0 0h14"/>
+        <path id="Path_2862" data-name="Path 2862" d="M-369.019 311.231a.281.281 0 0 0-.262-.179h-10.86a.281.281 0 0 0-.262.179 43.892 43.892 0 0 0-2.736 14.991.562.562 0 0 0 .555.569h15.739a.562.562 0 0 0 .562-.562v-.007a43.891 43.891 0 0 0-2.736-14.991z" transform="translate(383.139 -310.552)" style="fill:#f17c2d"/>
+        <g id="streamline-icon-currency-dollar_140x140" data-name="streamline-icon-currency-dollar@140x140" transform="translate(6 3.109)">
+            <path id="Path_2863" data-name="Path 2863" d="M38.961 6.3a1.874 1.874 0 0 0-1.185-1.749l-2-.8a.71.71 0 0 1 .264-1.369h1.97a.587.587 0 1 0 0-1.174h-.764a.1.1 0 0 1-.1-.1V.587a.587.587 0 0 0-1.174 0v.536a.1.1 0 0 1-.089.1 1.878 1.878 0 0 0-.537 3.62l2 .8a.71.71 0 0 1-.264 1.369h-1.971a.587.587 0 1 0 0 1.174h.765a.1.1 0 0 1 .1.1V8.8a.587.587 0 0 0 1.174 0v-.533a.1.1 0 0 1 .089-.1A1.882 1.882 0 0 0 38.961 6.3z" transform="translate(-34.157)" style="fill:#4d5a64"/>
+        </g>
+    </g>
+</svg>

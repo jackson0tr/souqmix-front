@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="232.037" height="166.396" viewBox="0 0 232.037 166.396">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".239" x2="1.215" y1="-.091" y2="1.821" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ecf0f5"/>
+            <stop offset="1" stop-color="#ccd6e6"/>
+        </linearGradient>
+        <style>
+            .cls-3{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_3581" data-name="Group 3581" transform="translate(-113.129 -344.796)">
+        <g id="Group_3403" data-name="Group 3403" transform="rotate(-18 1161.47 -81.03)">
+            <path id="Path_2774" fill="url(#linear-gradient)" d="M129.008 0H16.749A16.8 16.8 0 0 0 0 16.749v54.76a16.8 16.8 0 0 0 16.749 16.748h106.19l17.055 17.055a3.376 3.376 0 0 0 5.763-2.387V16.749A16.8 16.8 0 0 0 129.008 0z" data-name="Path 2774" transform="rotate(18.01 16.445 103.706)"/>
+            <g id="Group_3402" data-name="Group 3402" transform="rotate(18.01 -59.081 139.815)" style="isolation:isolate">
+                <rect id="Rectangle_2173" width="84.465" height="5.592" class="cls-3" data-name="Rectangle 2173" rx="2.796" transform="translate(27.612)"/>
+                <rect id="Rectangle_2175" width="110.107" height="5.592" class="cls-3" data-name="Rectangle 2175" rx="2.796" transform="translate(0 18.999)"/>
+                <rect id="Rectangle_2176" width="56.643" height="5.592" class="cls-3" data-name="Rectangle 2176" rx="2.796" transform="translate(53.919 38.361)"/>
+            </g>
+        </g>
+        <g id="Group_3411" data-name="Group 3411" transform="translate(238.169 433.154)">
+            <path id="Path_2775" fill="#e9eef3" d="M226.506 493.614h82.407a12.33 12.33 0 0 1 12.295 12.295v40.2a12.331 12.331 0 0 1-12.295 12.291h-77.952l-12.52 12.52a2.478 2.478 0 0 1-4.23-1.753v-63.26a12.331 12.331 0 0 1 12.295-12.293z" data-name="Path 2775" transform="translate(-214.211 -493.614)"/>
+            <g id="Group_3412" data-name="Group 3412" transform="translate(25.231 28.131)">
+                <g id="Group_3408" data-name="Group 3408">
+                    <g id="Group_3407" data-name="Group 3407">
+                        <circle id="Ellipse_330" cx="3.623" cy="3.623" r="3.623" class="cls-3" data-name="Ellipse 330"/>
+                        <circle id="Ellipse_331" cx="3.623" cy="3.623" r="3.623" class="cls-3" data-name="Ellipse 331" transform="translate(24.37)"/>
+                        <circle id="Ellipse_332" cx="3.623" cy="3.623" r="3.623" class="cls-3" data-name="Ellipse 332" transform="translate(48.74)"/>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

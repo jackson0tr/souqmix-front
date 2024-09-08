@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2298" data-name="Rectangle 2298" class="cls-1" transform="translate(467 2055)" d="M0 0h24v24H0z"/>
+        </clipPath>
+        <clipPath id="clip-path-2">
+            <path id="Rectangle_2297" data-name="Rectangle 2297" class="cls-1" transform="translate(474.668 2059.668)" d="M0 0h20v20H0z"/>
+        </clipPath>
+        <style>
+            .cls-1,.cls-4{fill:#2d3142;stroke:#2d3142}.cls-4{fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.714px}
+        </style>
+    </defs>
+    <g id="Mask_Group_95" data-name="Mask Group 95" transform="translate(-467 -2055)" style="clip-path:url(#clip-path)">
+        <g id="Mask_Group_94" data-name="Mask Group 94" transform="translate(-5.668 -2.668)" style="clip-path:url(#clip-path-2)">
+            <g id="streamline-icon-money-cash-dollar-coin_24x24" data-name="streamline-icon-money-cash-dollar-coin@24x24" transform="translate(475.806 2060.806)">
+                <g id="Group_7448" data-name="Group 7448">
+                    <path id="Line_61" data-name="Line 61" class="cls-4" transform="translate(8.977 3.453)" d="M0 2.072V0"/>
+                    <g id="Group_7447" data-name="Group 7447" transform="translate(6.906 5.524)">
+                        <path id="Path_44495" data-name="Path 44495" class="cls-4" d="M9.429 13.239c0 1.036.925 1.381 2.072 1.381s2.072 0 2.072-1.381c0-2.072-4.143-2.072-4.143-4.143 0-1.381.925-1.381 2.072-1.381s2.072.525 2.072 1.381" transform="translate(-9.429 -7.714)"/>
+                        <path id="Line_62" data-name="Line 62" class="cls-4" transform="translate(2.072 6.906)" d="M0 0v2.072"/>
+                    </g>
+                    <circle id="Ellipse_385" data-name="Ellipse 385" class="cls-4" cx="8.977" cy="8.977" r="8.977"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

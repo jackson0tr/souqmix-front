@@ -1,0 +1,14 @@
+<svg id="Group_3588" data-name="Group 3588" xmlns="http://www.w3.org/2000/svg" width="24.391" height="24.391" viewBox="0 0 24.391 24.391">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Mask" class="cls-1" width="24.391" height="24.391" rx="12.195"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#7b45ac}
+        </style>
+    </defs>
+    <g id="ColorBg">
+        <rect id="Mask-2" data-name="Mask" class="cls-1" width="24.391" height="24.391" rx="12.195"/>
+    </g>
+    <path id="Path_2" data-name="Path 2" d="M0 2.926 3.474 6.4l6.4-6.4" transform="translate(6.928 9.02)" style="fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:2px"/>
+</svg>

@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" id="Group_7228" width="36.617" height="36.617" data-name="Group 7228" viewBox="0 0 36.617 36.617">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Mask" width="36.617" height="36.617" class="cls-1" rx="18.309"/>
+        </clipPath>
+        <style>
+            .cls-1{fill:#f2f2f8}.cls-3{fill:#4d5a64}.cls-4{fill:#f17c2d}
+        </style>
+    </defs>
+    <g id="Group_3492" data-name="Group 3492">
+        <g id="ColorBg">
+            <rect id="Mask-2" width="36.617" height="36.617" class="cls-1" data-name="Mask" rx="18.309"/>
+        </g>
+    </g>
+    <g id="streamline-icon-police-rotating-light-1_140x140" data-name="streamline-icon-police-rotating-light-1@140x140" transform="translate(10.104 6.433)">
+        <path id="Path_2864" d="M65 8.557a.836.836 0 0 0 .836-.836v-2.51a.836.836 0 1 0-1.673 0V7.72a.836.836 0 0 0 .837.837z" class="cls-3" data-name="Path 2864" transform="translate(-57.058 -4.375)"/>
+        <path id="Path_2865" d="M102.215 25.322a.836.836 0 0 0 .591-.245l1.774-1.777a.836.836 0 1 0-1.18-1.18l-1.774 1.774a.836.836 0 0 0 .591 1.428z" class="cls-3" data-name="Path 2865" transform="translate(-88.935 -19.366)"/>
+        <path id="Path_2867" d="M16.6 25.077a.836.836 0 1 0 1.183-1.183l-1.772-1.774a.836.836 0 1 0-1.183 1.18z" class="cls-3" data-name="Path 2867" transform="translate(-14.583 -19.366)"/>
+        <path id="Path_2869" d="M45.348 50.655a.418.418 0 0 0 .418-.454l-.524-6.058a2.091 2.091 0 0 0-2.077-1.851h-4.544a2.091 2.091 0 0 0-2.077 1.863l-.521 6.045a.417.417 0 0 0 .416.454z" class="cls-4" data-name="Path 2869" transform="translate(-32.948 -34.855)"/>
+        <path id="Path_2870" d="M36.7 109.375h-8.359a2.091 2.091 0 0 0-2.091 2.091v.418a1.255 1.255 0 0 0 1.255 1.254H37.54a1.255 1.255 0 0 0 1.255-1.254v-.418a2.091 2.091 0 0 0-2.095-2.091z" class="cls-4" data-name="Path 2870" transform="translate(-24.577 -94.321)"/>
+    </g>
+</svg>

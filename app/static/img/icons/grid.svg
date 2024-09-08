@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="36" height="36" viewBox="0 0 36 36">
+    <defs>
+        <style>
+            .cls-3{fill:none;stroke:#8789a2;stroke-linecap:round;stroke-linejoin:round;stroke-width:3.5px}
+        </style>
+    </defs>
+    <g id="Group_6843" data-name="Group 6843" opacity="0.6" transform="translate(-325 -99)">
+        <path id="Path_43161" fill="none" d="M18 0A18 18 0 1 1 0 18 18 18 0 0 1 18 0z" data-name="Path 43161" transform="translate(325 99)"/>
+        <g id="Group_6842" data-name="Group 6842" transform="translate(38 11.896)">
+            <g id="list" transform="translate(298 99.104)">
+                <g id="Group_3710" data-name="Group 3710">
+                    <path id="Line_20" d="M0 0L0 0" class="cls-3" data-name="Line 20"/>
+                </g>
+                <g id="Group_3709" data-name="Group 3709" transform="translate(0 6.656)">
+                    <path id="Line_21" d="M0 0L0.008 0" class="cls-3" data-name="Line 21"/>
+                </g>
+                <g id="Group_3711" data-name="Group 3711" transform="translate(0 13.38)">
+                    <path id="Line_22" d="M0 0L0.008 0" class="cls-3" data-name="Line 22"/>
+                </g>
+            </g>
+            <g id="list-2" data-name="list" transform="translate(305.169 99.104)">
+                <g id="Group_3710-2" data-name="Group 3710">
+                    <path id="Line_20-2" d="M0 0L0.008 0" class="cls-3" data-name="Line 20"/>
+                </g>
+                <g id="Group_3709-2" data-name="Group 3709" transform="translate(0 6.656)">
+                    <path id="Line_21-2" d="M0 0L0.008 0" class="cls-3" data-name="Line 21"/>
+                </g>
+                <g id="Group_3711-2" data-name="Group 3711" transform="translate(0 13.38)">
+                    <path id="Line_22-2" d="M0 0L0.008 0" class="cls-3" data-name="Line 22"/>
+                </g>
+            </g>
+            <g id="list-3" data-name="list" transform="translate(312.337 99.104)">
+                <g id="Group_3710-3" data-name="Group 3710">
+                    <path id="Line_20-3" d="M0 0L0.008 0" class="cls-3" data-name="Line 20"/>
+                </g>
+                <g id="Group_3709-3" data-name="Group 3709" transform="translate(0 6.656)">
+                    <path id="Line_21-3" d="M0 0L0.008 0" class="cls-3" data-name="Line 21"/>
+                </g>
+                <g id="Group_3711-3" data-name="Group 3711" transform="translate(0 13.38)">
+                    <path id="Line_22-3" d="M0 0L0.008 0" class="cls-3" data-name="Line 22"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

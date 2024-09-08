@@ -1,0 +1,26 @@
+<svg id="Group_7232" data-name="Group 7232" xmlns="http://www.w3.org/2000/svg" width="36.617" height="36.617" viewBox="0 0 36.617 36.617">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".5" x2=".5" y2="1" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".468" stop-color="#f68941"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+        <clipPath id="clip-path">
+            <rect id="Mask" width="36.617" height="36.617" rx="18.309" style="fill:#f2f2f8"/>
+        </clipPath>
+        <style>
+            
+        </style>
+    </defs>
+    <g id="Group_3492" data-name="Group 3492">
+        <g id="ColorBg">
+            <rect id="Mask-2" data-name="Mask" width="36.617" height="36.617" rx="18.309" style="fill:#f2f2f8"/>
+        </g>
+    </g>
+    <g id="streamline-icon-multiple-man-woman-1_140x140" data-name="streamline-icon-multiple-man-woman-1 140x140" transform="translate(10.891 10)">
+        <path id="Path_2977" data-name="Path 2977" d="M136.216 92.425a4.753 4.753 0 1 0-4.753 4.753 4.753 4.753 0 0 0 4.753-4.753z" transform="translate(-124.334 -87.672)" style="fill:url(#linear-gradient)"/>
+        <path id="Path_2978" data-name="Path 2978" d="M126.385 158.968a7.129 7.129 0 1 0-14.258 0 .475.475 0 0 0 .475.475h13.308a.475.475 0 0 0 .475-.475z" transform="translate(-112.127 -142.383)" style="fill:url(#linear-gradient)"/>
+    </g>
+</svg>

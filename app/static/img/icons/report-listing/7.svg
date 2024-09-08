@@ -1,0 +1,33 @@
+<svg id="Group_7233" data-name="Group 7233" xmlns="http://www.w3.org/2000/svg" width="36.617" height="36.617" viewBox="0 0 36.617 36.617">
+    <defs>
+        <clipPath id="clip-path">
+            <rect id="Mask" width="36.617" height="36.617" rx="18.309" style="fill:#f2f2f8"/>
+        </clipPath>
+        <style>
+            
+        </style>
+    </defs>
+    <g id="Group_3492" data-name="Group 3492">
+        <g id="ColorBg">
+            <rect id="Mask-2" data-name="Mask" width="36.617" height="36.617" rx="18.309" style="fill:#f2f2f8"/>
+        </g>
+    </g>
+    <g id="Group_3522" data-name="Group 3522" transform="translate(9.891 11)">
+        <g id="Finance_banking_1_">
+            <g id="Check_1_">
+                <g id="Rectangle_54_2_" transform="translate(1 1.179)">
+                    <g id="Group_3506" data-name="Group 3506">
+                        <path id="Rectangle_2189" data-name="Rectangle 2189" style="fill:#f17c2d" d="M0 0h16v12H0z"/>
+                    </g>
+                </g>
+                <g id="Rectangle_53_2_">
+                    <g id="Group_3507" data-name="Group 3507">
+                        <path id="Path_2858" data-name="Path 2858" d="M17.248 12.01H.75c-.414 0-.75.544-.75 1.215v12.152c0 .67.336 1.215.75 1.215h16.5c.414 0 .75-.545.75-1.215V13.225c0-.671-.338-1.215-.752-1.215zM16.5 24.162h-15V14.44h15z" transform="translate(0 -12.01)" style="fill:#f17c2d"/>
+                    </g>
+                </g>
+                <path id="Line_42" data-name="Line 42" transform="translate(3.5 9.22)" style="fill:none;stroke:#4d5a64;stroke-linecap:round;stroke-width:2px" d="M0 0h4"/>
+            </g>
+        </g>
+        <path id="Line_43" data-name="Line 43" transform="translate(3.5 4.99)" style="fill:none;stroke:#4d5a64;stroke-linecap:round;stroke-width:2px" d="M0 0h11"/>
+    </g>
+</svg>

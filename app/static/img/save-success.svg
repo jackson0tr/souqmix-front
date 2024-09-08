@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="199.842" height="193.632" viewBox="0 0 199.842 193.632">
+    <defs>
+        <linearGradient id="linear-gradient" x1=".179" x2=".885" y1=".133" y2=".91" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#ecf0f5"/>
+            <stop offset="1" stop-color="#ccd6e6"/>
+        </linearGradient>
+        <linearGradient id="linear-gradient-2" x1="-.026" x2="1.183" y1="-.026" y2="1.183" gradientUnits="objectBoundingBox">
+            <stop offset="0" stop-color="#f9de5b"/>
+            <stop offset="0" stop-color="#f17c2d"/>
+            <stop offset="0" stop-color="#fe9c5e"/>
+            <stop offset=".012" stop-color="#fe9c5e"/>
+            <stop offset=".171" stop-color="#fe9c5e"/>
+            <stop offset=".371" stop-color="#fe9c5e"/>
+            <stop offset="1" stop-color="#f17c2d"/>
+        </linearGradient>
+    </defs>
+    <g id="Group_7045" data-name="Group 7045" transform="translate(-648.842 -303.222)">
+        <g id="Group_3576" data-name="Group 3576" transform="translate(663.902 303.222)">
+            <g id="photos">
+                <g id="photo" transform="rotate(14 19.614 159.747)">
+                    <path id="Rectangle" fill="url(#linear-gradient)" fill-rule="evenodd" d="M12.742 0h120.227a12.741 12.741 0 0 1 12.655 11.26 618.645 618.645 0 0 1 4.384 71.846 543.271 543.271 0 0 1-4.273 67.9 12.741 12.741 0 0 1-12.641 11.15H12.9A12.741 12.741 0 0 1 .254 147.864a531.31 531.31 0 0 0 3.812-64.758A599.772 599.772 0 0 0 .085 14.2 12.741 12.741 0 0 1 12.742 0z"/>
+                    <path id="Rectangle-2" fill="#fff" d="M0 0h115.826q2.317 29.7 2.317 63.2t-2.316 52.63H0Q2.317 95.949 2.317 63.2T0 0z" data-name="Rectangle" transform="translate(16.216 15.058)"/>
+                    <path id="Rectangle-3" fill="#dae1e9" fill-rule="evenodd" d="M1.1 26.914q10.844 35.758 25.316 35.612c14.472-.146 18.551-16.976 38.675-16.742S86.248 82.856 103.83 82.9q17.582.041 22.421-39.254L123.628 0H0z" data-name="Rectangle" opacity="0.4" transform="rotate(180 70.075 70.405)"/>
+                </g>
+            </g>
+        </g>
+        <g id="Group_3577" data-name="Group 3577" transform="translate(648.842 354.472)">
+            <path id="Path_2735" fill="url(#linear-gradient-2)" d="M65.968 0A65.968 65.968 0 1 1 0 65.968 65.968 65.968 0 0 1 65.968 0z" data-name="Path 2735"/>
+            <path id="Checkbox" fill="#fff" d="M27.917 51.184L1 24.267l6.387-6.387 20.53 20.074L64.871 1l6.387 6.387z" opacity="0.997" transform="translate(29.655 41.953)"/>
+        </g>
+    </g>
+</svg>

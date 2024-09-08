@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="48" height="48" viewBox="0 0 48 48">
+    <defs>
+        <style>
+            .cls-2{fill:#cbcbd9}
+        </style>
+    </defs>
+    <g id="Group_7131" data-name="Group 7131" transform="translate(-387 -864.861)">
+        <path id="Path_2971" data-name="Path 2971" d="M24 0A24 24 0 1 1 0 24 24 24 0 0 1 24 0z" transform="translate(387 864.861)" style="fill:#f7f7fb"/>
+        <g id="streamline-icon-filter-mail_140x140" data-name="streamline-icon-filter-mail@140x140" transform="translate(399.868 879.605)">
+            <path id="Path_2968" data-name="Path 2968" class="cls-2" d="M32.093 18.269a.281.281 0 0 0 .3 0L43.146 11.1a.559.559 0 0 0 .237-.58A2.236 2.236 0 0 0 41.2 8.75H22.758a2.236 2.236 0 0 0-2.2 1.842.559.559 0 0 0 .253.57z" transform="translate(-20.522 -8.75)"/>
+            <path id="Path_2969" data-name="Path 2969" class="cls-2" d="M33.222 39.276a1.956 1.956 0 0 1-2.122.024l-9.824-6.2a.559.559 0 0 0-.857.473v12.118a2.236 2.236 0 0 0 2.236 2.236H41.1a2.236 2.236 0 0 0 2.236-2.236v-12.11a.559.559 0 0 0-.869-.465z" transform="translate(-20.417 -28.366)"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24">
+    <defs>
+        <clipPath id="clip-path">
+            <path id="Rectangle_2293" data-name="Rectangle 2293" transform="translate(315 2026)" style="stroke:#2d3142;fill:#2d3142" d="M0 0h24v24H0z"/>
+        </clipPath>
+        <style>
+            .cls-3{stroke:#2d3142;fill:none;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.714px}
+        </style>
+    </defs>
+    <g id="Mask_Group_90" data-name="Mask Group 90" transform="translate(-315 -2026)" style="clip-path:url(#clip-path)">
+        <g id="streamline-icon-interface-file-clipboard-text_24x24" data-name="streamline-icon-interface-file-clipboard-text@24x24" transform="translate(315.569 2027.439)">
+            <g id="Group_7439" data-name="Group 7439" transform="translate(3.429 .857)">
+                <path id="Path_44484" data-name="Path 44484" class="cls-3" d="M14.79 2.571h2.272a1.515 1.515 0 0 1 1.515 1.515v15.148a1.515 1.515 0 0 1-1.515 1.515H4.943a1.515 1.515 0 0 1-1.515-1.515V4.086a1.515 1.515 0 0 1 1.515-1.515h2.273" transform="translate(-3.429 -1.057)"/>
+                <rect id="Rectangle_2289" data-name="Rectangle 2289" class="cls-3" width="7.574" height="3.787" rx="1.714" transform="translate(3.787)"/>
+                <path id="Line_52" data-name="Line 52" class="cls-3" transform="translate(3.787 7.574)" d="M0 0h7.574"/>
+                <path id="Line_53" data-name="Line 53" class="cls-3" transform="translate(3.787 11.361)" d="M0 0h7.574"/>
+                <path id="Line_54" data-name="Line 54" class="cls-3" transform="translate(3.787 15.148)" d="M0 0h7.574"/>
+            </g>
+        </g>
+    </g>
+</svg>

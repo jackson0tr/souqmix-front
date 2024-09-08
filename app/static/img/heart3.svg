@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+    <g id="Group_6802" data-name="Group 6802" transform="translate(-5045.5 -2099.25)">
+        <rect id="Mask" width="40" height="40" fill="#f77777" rx="8" transform="translate(5045.5 2099.25)"/>
+        <g id="icon_heart_copy" data-name="icon/heart copy" transform="translate(5051.148 2104.557)">
+            <path id="icon_heart_dark_background" fill="none" d="M0 0H30.443V30.443H0z" data-name="icon/heart/dark background"/>
+            <path id="Icon" fill="#fff" stroke="#fff" stroke-miterlimit="10" stroke-width="2px" d="M9.657 17.441a2.571 2.571 0 0 1-1.944-.872L1.664 9.7a5.711 5.711 0 0 1-.91-6.83A5.465 5.465 0 0 1 4.318.1a5.2 5.2 0 0 1 4.366 1.12 5.681 5.681 0 0 1 .945.99 5.4 5.4 0 0 1 .781-.875A4.94 4.94 0 0 1 14.33.088a5.448 5.448 0 0 1 4.625 4.7 6.006 6.006 0 0 1-1.487 4.945l-5.878 6.815a2.573 2.573 0 0 1-1.934.893z" transform="translate(5.074 6.342)"/>
+        </g>
+    </g>
+</svg>
